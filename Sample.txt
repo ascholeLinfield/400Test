@@ -4,5 +4,3 @@ f
 asdf
 as
 dfasdf
-
-New changes
